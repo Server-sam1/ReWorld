@@ -1,0 +1,61 @@
+[02:09:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[02:09:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[02:09:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:09:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:09:53] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[02:09:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:09:58] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:09:58] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[02:09:59] [ServerMain/INFO]: No existing world data, creating new world
+[02:10:01] [ServerMain/INFO]: Loaded 1290 recipes
+[02:10:01] [ServerMain/INFO]: Loaded 1399 advancements
+[02:10:01] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:10:01] [Server thread/INFO]: Loading properties
+[02:10:01] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:10:02] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 8952ms.
+[02:10:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:10:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:10:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:10:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:10:03] [Server thread/INFO]: Default game type: SURVIVAL
+[02:10:03] [Server thread/INFO]: Generating keypair
+[02:10:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:10:03] [Server thread/INFO]: Using epoll channel type
+[02:10:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:10:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:10:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:10:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:10:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:10:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:10:04] [Server thread/INFO]: Preparing level "world"
+[02:10:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:10:19] [Server thread/INFO]: Time elapsed: 5561 ms
+[02:10:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:10:21] [Server thread/INFO]: Time elapsed: 1955 ms
+[02:10:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:10:21] [Server thread/INFO]: Time elapsed: 521 ms
+[02:10:21] [Server thread/INFO]: [spark] Starting background profiler...
+[02:10:21] [Server thread/INFO]: Done preparing level "world" (17.907s)
+[02:10:21] [Server thread/INFO]: Running delayed init tasks
+[02:10:21] [Server thread/INFO]: Done (31.040s)! For help, type "help"
+[02:10:21] [Server thread/INFO]: *************************************************************************************
+[02:10:21] [Server thread/INFO]: This is the first time you're starting this server.
+[02:10:21] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[02:10:21] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[02:10:21] [Server thread/INFO]: *************************************************************************************
+[02:10:21] [Server thread/INFO]: Timings Reset
+[02:11:57] [User Authenticator #0/INFO]: UUID of player Sam_mtzrss is dfcd9200-0591-34f3-ba71-cfcd08c66845
+[02:12:00] [Server thread/INFO]: Sam_mtzrss joined the game
+[02:12:00] [Server thread/INFO]: Sam_mtzrss[/127.181.102.249:38471] logged in with entity id 41 at ([world]-34.5, 72.0, -69.5)
+[02:13:22] [Server thread/INFO]: Sam_mtzrss lost connection: Disconnected
+[02:13:22] [Server thread/INFO]: Sam_mtzrss left the game
+[02:14:38] [User Authenticator #1/INFO]: UUID of player Sam_mtzrss is dfcd9200-0591-34f3-ba71-cfcd08c66845
+[02:14:41] [Server thread/INFO]: Sam_mtzrss joined the game
+[02:14:41] [Server thread/INFO]: Sam_mtzrss[/127.181.102.249:54117] logged in with entity id 570 at ([world]75.85354471725324, 78.0, -106.8243813103545)
+[02:14:54] [Server thread/INFO]: Sam_mtzrss lost connection: Disconnected
+[02:14:54] [Server thread/INFO]: Sam_mtzrss left the game
+[02:15:05] [User Authenticator #1/INFO]: UUID of player Sam_mtzrss is dfcd9200-0591-34f3-ba71-cfcd08c66845
+[02:15:08] [Server thread/INFO]: Sam_mtzrss joined the game
+[02:15:08] [Server thread/INFO]: Sam_mtzrss[/127.181.102.249:59125] logged in with entity id 634 at ([world]79.83308640274925, 75.0, -102.69999998807907)
+[02:15:27] [Server thread/INFO]: Sam_mtzrss lost connection: Disconnected
+[02:15:27] [Server thread/INFO]: Sam_mtzrss left the game
