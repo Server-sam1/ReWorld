@@ -88,3 +88,12 @@
 [04:28:53] [Server thread/INFO]: [Sam_mtzrss: Set own game mode to Creative Mode]
 [04:29:26] [Server thread/INFO]: Sam_mtzrss lost connection: Disconnected
 [04:29:26] [Server thread/INFO]: Sam_mtzrss left the game
+[04:34:03] [User Authenticator #2/INFO]: UUID of player Sam_mtzrss is dfcd9200-0591-34f3-ba71-cfcd08c66845
+[04:34:04] [Server thread/INFO]: Sam_mtzrss joined the game
+[04:34:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sam_mtzrss's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:34:04] [Server thread/INFO]: Sam_mtzrss[/[0:0:0:0:0:0:0:1]:35374] logged in with entity id 1837 at ([world]-656.7271710795914, 74.0, 33.54596177412961)
+[04:34:10] [InteractionVisualizer Async Processing Thread #0/INFO]: [InteractionVisualizer] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[04:39:56] [Server thread/INFO]: Sam_mtzrss has made the advancement [Who Needs Rockets?]
+[04:40:21] [Server thread/INFO]: Sam_mtzrss has made the advancement [Monster Hunter]
+[04:40:35] [Server thread/INFO]: Sam_mtzrss lost connection: Disconnected
+[04:40:35] [Server thread/INFO]: Sam_mtzrss left the game
