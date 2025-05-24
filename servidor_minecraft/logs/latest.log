@@ -97,3 +97,8 @@
 [04:40:21] [Server thread/INFO]: Sam_mtzrss has made the advancement [Monster Hunter]
 [04:40:35] [Server thread/INFO]: Sam_mtzrss lost connection: Disconnected
 [04:40:35] [Server thread/INFO]: Sam_mtzrss left the game
+[04:42:42] [User Authenticator #3/INFO]: UUID of player Sam_mtzrss is dfcd9200-0591-34f3-ba71-cfcd08c66845
+[04:42:43] [Server thread/INFO]: Sam_mtzrss joined the game
+[04:42:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sam_mtzrss's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:42:43] [Server thread/INFO]: Sam_mtzrss[/[0:0:0:0:0:0:0:1]:45622] logged in with entity id 4309 at ([world]-826.0317381183689, 88.68307175973128, -426.3167273654906)
+[04:42:48] [InteractionVisualizer Async Processing Thread #2/INFO]: [InteractionVisualizer] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
